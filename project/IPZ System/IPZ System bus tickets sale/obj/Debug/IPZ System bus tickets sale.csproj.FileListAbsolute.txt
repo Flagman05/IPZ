@@ -1,0 +1,77 @@
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\bin\Debug\IPZ System bus tickets sale.exe.config
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\bin\Debug\IPZ System bus tickets sale.exe
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\bin\Debug\IPZ System bus tickets sale.pdb
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\App.g.cs
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale_MarkupCompile.cache
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.g.resources
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ_System_bus_tickets_sale.Properties.Resources.resources
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.csproj.GenerateResource.Cache
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.exe
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.pdb
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\MainWindow.baml
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\MainWindow.g.cs
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\Window1.baml
+c:\users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\Window1.g.cs
+C:\Users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\Window2.baml
+C:\Users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\Window3.baml
+C:\Users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\Window2.g.cs
+C:\Users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\Window3.g.cs
+C:\Users\фокс\documents\visual studio 2013\Projects\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.csprojResolveAssemblyReference.cache
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System bus tickets sale\IPZ System bus tickets sale\bin\Debug\IPZ System bus tickets sale.exe.config
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System bus tickets sale\IPZ System bus tickets sale\bin\Debug\IPZ System bus tickets sale.exe
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System bus tickets sale\IPZ System bus tickets sale\bin\Debug\IPZ System bus tickets sale.pdb
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.csprojResolveAssemblyReference.cache
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\MainWindow.baml
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\Window1.baml
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\Window2.baml
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\Window3.baml
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\MainWindow.g.cs
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\Window1.g.cs
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\Window2.g.cs
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\Window3.g.cs
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\App.g.cs
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale_MarkupCompile.cache
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.g.resources
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ_System_bus_tickets_sale.Properties.Resources.resources
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.csproj.GenerateResource.Cache
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.exe
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System bus tickets sale\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.pdb
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System\IPZ System bus tickets sale\bin\Debug\IPZ System bus tickets sale.exe.config
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.exe
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.pdb
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System\IPZ System bus tickets sale\bin\Debug\IPZ System bus tickets sale.exe
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System\IPZ System bus tickets sale\bin\Debug\IPZ System bus tickets sale.pdb
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.csprojResolveAssemblyReference.cache
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\MainWindow.baml
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\Window1.baml
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\Window2.baml
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\Window3.baml
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\MainWindow.g.cs
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\Window1.g.cs
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\Window2.g.cs
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\Window3.g.cs
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\App.g.cs
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale_MarkupCompile.cache
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.g.resources
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\IPZ_System_bus_tickets_sale.Properties.Resources.resources
+E:\КІ 3 курс\1 семестр\ІПЗ\клієнт-сервер\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.csproj.GenerateResource.Cache
+C:\Users\dkhom\Downloads\Telegram Desktop\проект\IPZ System\IPZ System bus tickets sale\bin\Debug\IPZ System bus tickets sale.exe.config
+C:\Users\dkhom\Downloads\Telegram Desktop\проект\IPZ System\IPZ System bus tickets sale\bin\Debug\IPZ System bus tickets sale.exe
+C:\Users\dkhom\Downloads\Telegram Desktop\проект\IPZ System\IPZ System bus tickets sale\bin\Debug\IPZ System bus tickets sale.pdb
+C:\Users\dkhom\Downloads\Telegram Desktop\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.csprojAssemblyReference.cache
+C:\Users\dkhom\Downloads\Telegram Desktop\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\MainWindow.baml
+C:\Users\dkhom\Downloads\Telegram Desktop\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\Window1.baml
+C:\Users\dkhom\Downloads\Telegram Desktop\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\Window2.baml
+C:\Users\dkhom\Downloads\Telegram Desktop\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\Window3.baml
+C:\Users\dkhom\Downloads\Telegram Desktop\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\MainWindow.g.cs
+C:\Users\dkhom\Downloads\Telegram Desktop\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\Window1.g.cs
+C:\Users\dkhom\Downloads\Telegram Desktop\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\Window2.g.cs
+C:\Users\dkhom\Downloads\Telegram Desktop\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\Window3.g.cs
+C:\Users\dkhom\Downloads\Telegram Desktop\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\App.g.cs
+C:\Users\dkhom\Downloads\Telegram Desktop\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale_MarkupCompile.cache
+C:\Users\dkhom\Downloads\Telegram Desktop\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.g.resources
+C:\Users\dkhom\Downloads\Telegram Desktop\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\IPZ_System_bus_tickets_sale.Properties.Resources.resources
+C:\Users\dkhom\Downloads\Telegram Desktop\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.csproj.GenerateResource.cache
+C:\Users\dkhom\Downloads\Telegram Desktop\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.csproj.CoreCompileInputs.cache
+C:\Users\dkhom\Downloads\Telegram Desktop\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.exe
+C:\Users\dkhom\Downloads\Telegram Desktop\проект\IPZ System\IPZ System bus tickets sale\obj\Debug\IPZ System bus tickets sale.pdb
